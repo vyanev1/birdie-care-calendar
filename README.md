@@ -1,5 +1,5 @@
 # Birdie Care App
-A dynamic event calendar page that allows family members to see what care their older adults are receiving. The information is displayed in the form of a timeline.
+A dynamic event calendar page that allows family members to see what care their older adults are receiving in a nursing home. The information is displayed in the form of a timeline.
 
 **Link:** https://vyanev1.github.io/birdie-care-calendar/
 
