@@ -1,6 +1,6 @@
 {
   "name": "front-end",
-  "homepage": "https://vyanev1.github.io/birdie-care-app",
+  "homepage": "https://vyanev1.github.io/birdie-care-calendar",
   "version": "0.1.0",
   "private": true,
   "proxy": "https://birdie-test-vyanev.herokuapp.com/",

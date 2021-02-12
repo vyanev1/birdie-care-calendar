@@ -1,7 +1,7 @@
 # Birdie Care App
 A dynamic event calendar page that allows family members to see what care their older adults are receiving. The information is displayed in the form of a timeline.
 
-**Link:** https://vyanev1.github.io/birdie-care-app/
+**Link:** https://vyanev1.github.io/birdie-care-calendar/
 
 **Example id to use:** df50cac5-293c-490d-a06c-ee26796f850d
 
